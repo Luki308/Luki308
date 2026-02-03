@@ -11,7 +11,8 @@ Data Scientist here, trying to make the world a better place.
 
 ### 📚 Currently Mastering
 <a href="https://kafka.apache.org/">
-  <img src="img/kafka.svg" height="48" alt="Apache Kafka" style="background:#ffffff;padding:6px;border-radius:6px;"/>
+  <img src="img/kafka_highres.png" height="48" alt="Apache Kafka" style="background:#ffffff;padding:6px;border-radius:6px;"
+  />
 </a>
 <a href="https://airflow.apache.org/">
   <img src="img/airflow.svg" height="48" alt="Apache Airflow" style="background:#ffffff;padding:6px;border-radius:6px;"/>
@@ -65,5 +66,12 @@ Data Scientist here, trying to make the world a better place.
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="img/c.svg" height="48" alt="C" style="background:#ffffff;padding:6px;border-radius:6px;"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img src="img/bash.svg" height="48" alt="Bash" style="background:#ffffff;padding:6px;border-radius:6px;"/>
+  </a>  
 
 <img src="img/scifi.jfif"/>
+
+---
+
+Problems with showcase? Change to light mode.
