@@ -72,3 +72,6 @@ I'm passionate about machine learning, big data technologies and data visualizat
     <img src="img/hbase.svg" height="48" alt="Apache HBase"/>
   </a>
 </div>
+
+<img src="img/scifi.jfif"/>
+perchance.org/ai-pixel-art-generator
