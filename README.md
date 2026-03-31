@@ -1,6 +1,6 @@
 Hi there 👋
 ============================================================
-Data Scientist here, trying to make the world a better place. 
+Data Scientist here, trying to make the world a better place. Check out my pinned projects!
 > Maps...Plots...Infographics? Type doesn't matter. I love all stories told by data!
 
 ### About Me
