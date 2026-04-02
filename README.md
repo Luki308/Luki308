@@ -25,7 +25,7 @@ Data Scientist here, trying to make the world a better place. Check out my pinne
   <tr>
     <td align="center" width="150"><a href="https://www.python.org/"><img src="img/python.svg" height="48" alt="Python" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
     <td align="center"><a href="https://www.r-project.org"><img src="img/R.svg" height="48" alt="R" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
-    <td align="center"><a href="https://www.java.com/"><img src="img/java.svg" height="48" alt="Java" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
+    <td align="center"><a href="https://www.oracle.com/java/"><img src="img/java.svg" height="48" alt="Java" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="img/c.svg" height="48" alt="C" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
     <td align="center"><a href="https://www.docker.com"><img src="img/docker.svg" height="48" alt="Docker" style="background:#ffffff;padding:6px;border-radius:6px;"/></a></td>
   </tr>
